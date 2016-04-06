@@ -8,7 +8,7 @@
   "homepage": "http://mobile.couchbase.com",
   "summary": "An embedded syncable NoSQL database for iOS apps.",
   "authors": "Couchbase",
-  "source": { "git": "https://github.com/sab-sikder/couchbase-lite-ios/blob/master/couchbase-lite-ios.podspec"}
+  "source": { "git": "https://github.com/sab-sikder/couchbase-lite-ios.git"}
 
 
 ,
